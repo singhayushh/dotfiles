@@ -1,0 +1,19 @@
+{
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "workbench.activityBar.visible": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "workbench.startupEditor": "none",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "editor.codeLensFontFamily": "'CCode New Roman",
+    "editor.fontFamily": "'Code New Roman', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontSize": 15,
+    "editor.inlayHints.fontFamily": "'Code New Roman', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.lineHeight": 1.5,
+    "scm.inputFontFamily": "'Code New Roman', default",
+    "debug.console.fontFamily": "'Code New Roman', default",
+    "terminal.integrated.fontFamily": "'Code New Roman'",
+    "editor.multiCursorModifier": "ctrlCmd"
+}

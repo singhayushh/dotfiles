@@ -1,0 +1,60 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 133 133" width="133" height="133">
+	<title>debian-swirl-svg</title>
+	<defs>
+		<image  width="123" height="123" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAB7BAMAAACm6eJMAAAAAXNSR0IB2cksfwAAABhQTFRFAAAA3tfXLy8xLy8xLy8xLy8xLy8xLy8xXk+bmwAAAAh0Uk5TAP9A4DBQwBBIh8QZAAACXUlEQVR4nMXZW1bEIAwGYKLH92RHLsUluP8nZ2qnSYBALj06L+rQr/wp9IJtbfmhdfPuU+VY0VDlpfT037xQPNR5IT39P08XD3fwdHq6hWfT1/hZejZ9kdNNPFU83MVT6YucdSp9jYvsmfRFTjfycPFwJw+nL3Ktw+lrvMseTV/k7CCTnovOFH9lx2tHKd5SXIwX8K9h3lJcksTNAoRIcJlXDEKQqz/8XE+0cHr9UBLm4rAjxIvnrZ99RjlnB5TT1plePM4dy4Fg8SLq8TOYXs84DI68GDbS3JVeHLmTh4pXw/b4vMXSX1uenb5/Rs75LjvRx1ckPXPRpZ9fG8ou/cXXOJ/rcrK5ix97DE37Ofemhxn3T/uLyzu0v/gLgPTuyzVzSnCe3KS576Q9OXTcWzzt+So9c1S+uYYOmJ+MjaP4kU9OgW125siz0FG8OFYvFeBy4YcmN9NTx8VlqjmOXc9FIlSVbbKfI1bkr7tkx430JPljX1jjZu/T9OoMP+aL+FrxafeaN833a1LqOZp8lr7jEOPDum/BJ+npD/mQvl+4PZ8JuaG79u05LvmQnix+/JHgTUybgXfphzXrs3hu2a2oZ1zE2i2JB604jhw3HEXLJJ3iY/arHeac1p3LJoxy3YSzTUR6MFvkCwInH8YEN5uZXWtuXbHMrg8BON1yttNeP69ZxkGe8EE/2gC7L/qNrbJ/22AsR/HlSmXybbf96v9CMLslgOp+oRsYO+25cdM27qZ6lWzf8q3nIFDc3Mr4Xrxvmo/39gPME/rwWHlfeD40JPUvrbwtLL6lbd8/y6KgorNqUr0AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="layer1">
+		<g id="g12645">
+			<g id="g12643">
+			</g>
+		</g>
+		<g id="g12651">
+		</g>
+		<g id="g12657">
+		</g>
+		<g id="g12671">
+			<g id="g12669">
+			</g>
+		</g>
+		<g id="g12677">
+			<g id="g12675">
+			</g>
+		</g>
+		<g id="g12681">
+		</g>
+		<g id="g12691">
+			<g id="g12689">
+			</g>
+		</g>
+		<g id="g12697">
+			<g id="g12695">
+			</g>
+		</g>
+		<g id="g12703">
+			<g id="g12701">
+			</g>
+		</g>
+		<g id="g12707">
+			<g id="g12705">
+			</g>
+		</g>
+		<g id="g12711">
+			<g id="g12709">
+			</g>
+		</g>
+		<g id="g12719">
+			<g id="g12717">
+			</g>
+		</g>
+		<g id="g13003">
+		</g>
+		<g id="g13007">
+		</g>
+		<use id="g14138" href="#img1" x="5" y="5" />
+	</g>
+	<g id="layer4">
+	</g>
+</svg>
